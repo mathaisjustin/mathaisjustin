@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a [Developer], passionate about [Web Apps, Mobile Applications]. I enjoy working on [Python, JavaScript ] and exploring new ideas in the field of [Cloud and AI]. 
+I'm a ***Developer***, passionate about ***Web Apps, Mobile Applications***. I enjoy working on ***Python, JavaScript*** and exploring new ideas in the field of ***Cloud and AI***. 
 
 ## Skills
 
-- Programming Languages: [Python, JavaScript, Php,]
-- Frameworks and Technologies: [DJango, ReactJS, Sanity.io, Computer-Vision]
-- Other Skills: [Git & Github, Mongodb, Firebase]
+- Programming Languages: **Python, JavaScript, Php***
+- Frameworks and Technologies: **DJango, ReactJS, Sanity.io, Computer-Vision**
+- Other Skills: **Git & Github, Mongodb, Firebase**
 
 ## Projects
 
