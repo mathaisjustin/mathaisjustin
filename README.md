@@ -6,7 +6,7 @@ I'm a ***Developer***, passionate about ***Web Apps, Mobile Applications***. I e
 
 ## Skills
 
-- Programming Languages: **Python, JavaScript, Php***
+- Programming Languages: **Python, JavaScript, Php**
 - Frameworks and Technologies: **DJango, ReactJS, Sanity.io, Computer-Vision**
 - Other Skills: **Git & Github, Mongodb, Firebase**
 
