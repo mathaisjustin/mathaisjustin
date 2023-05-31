@@ -18,9 +18,8 @@ I'm a [Developer], passionate about [Web Apps, Mobile Applications]. I enjoy wor
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn Profile URL)
-- Twitter: [Your Twitter Handle](Twitter Handle URL)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- LinkedIn: [mathaisjustin](https://www.linkedin.com/in/mathaisjustin/)
+- Email: [mathaisjustin@gmail.com](mailto:mathaisjustin@gmail.com)
 
 Feel free to reach out to me for any collaboration or discussion related to my projects or interests. I'm always open to new opportunities and connections!
 
