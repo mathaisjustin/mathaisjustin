@@ -1,4 +1,4 @@
-# Hi there, I'm [Justin Mathais]! 👋
+# Hi there, I'm *Justin Mathais*! 👋
 
 ## About Me
 
